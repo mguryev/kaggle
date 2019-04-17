@@ -1,0 +1,3 @@
+# Ignoring datasets as they are kaggle's intellectual property
+test.csv
+train.csv
